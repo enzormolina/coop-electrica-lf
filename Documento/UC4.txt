@@ -1,0 +1,9 @@
+Caso de uso 4
+Nombre de caso de uso: Solicitar vacaciones
+Breve descripción: El usuario solicita vacaciones a su jefe de area
+Flujo básico: 1) El usuario elige la opción "solicitar vacaciones"
+              2) El sistema muestra en pantalla los días disponibles
+              3) El usuario selecciona los días que desea
+              4) El sistema registra los días seleccionados y envía un mensaje a su jefe de area para aprobarlos
+
+Flujo alternativo: 2a. El usuario no tiene vacaciones disponibles. Volver a CU4. 1

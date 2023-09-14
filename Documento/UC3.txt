@@ -1,0 +1,7 @@
+Caso de uso 3
+Nombre de caso de uso: Visualizar registros
+Breve descripción: El usuario visualiza sus registros, como asistencias, inasistencias y días libres
+Flujo básico: 1) El usuario solicita visualizar los registros
+              2) El sistema muestra en pantalla los registros correspondientes a ese usuario
+
+Flujo alternativo: 1a. El usuario no se encuentra en la lista de empleados, volver a CU3 1
